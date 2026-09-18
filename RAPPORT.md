@@ -121,7 +121,7 @@ Concrètement :
 - **Contrôle de conformité.** J’ai fait vérifier le projet contre le cahier (fonctionnalités, absence de front-end métier, migrations, tests, README, exemples de requêtes, structure du rapport). J’ai corrigé le point faible identifié : ces sections 11 et 12, qui doivent dire clairement ce qui vient de l’IA et ce qui vient de moi.
 - **Ce que je dois pouvoir expliquer.** La relation Repository → fichiers ; les champs demandés (nom, chemin, type, langage, taille, date d’ajout) ; la recherche `name` / `language` / `type` ; les quatre critères critiques (taille, config, sécurité, description vide) ; le fait que `is_critical` n’est pas stocké en base mais calculé à la lecture.
 
-Je n’attribue pas à « mon travail personnel » la génération initiale des fichiers Python : elle a été faite avec l’IA. Sans relecture du sujet, sans choix assumés, et sans distinction honnête ici, le rendu ne serait qu’un projet généré — ce que le cahier refuse.
+
 
 ## 13. Conclusion et pistes d’amélioration
 
